@@ -26,4 +26,4 @@ Simply clone the repository, install the required dependencies, and set up your 
 
 Contributions, ideas, and feedback are always welcome. Please read our contribution guidelines for more information on how to get involved.
 
-![image](https://github.com/Bentlybro/NoteNavigator/assets/27962737/776f9bce-f742-4de9-a0d4-8ebd01a75706)
+![image](https://github.com/Bentlybro/NoteNavigator/assets/27962737/3693b0a5-29b5-4754-ab9c-4f8f9a024993)
