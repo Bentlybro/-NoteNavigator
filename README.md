@@ -1,4 +1,4 @@
-# NoteNavigator 🎵🧭
+# 🎵 NoteNavigator 🧭
 ---
 
 NoteNavigator is an innovative web application designed to enhance your music discovery experience using the power of ChatGPT and Spotify. By seamlessly integrating with your Spotify account, NoteNavigator offers personalized song recommendations based on your listening history and preferences.
